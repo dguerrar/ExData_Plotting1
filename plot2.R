@@ -1,4 +1,4 @@
-alldata<-read.csv("../household_power_consumption.txt",header=TRUE,sep=";",na.strings="?")
+alldata<-read.csv("./household_power_consumption.txt",header=TRUE,sep=";",na.strings="?")
 #only dates from 2007-02-01 and 2007-02-02
 
 
